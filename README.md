@@ -5,7 +5,7 @@ Arduino project / SD HAT / for M5StickC/Plus/Plus2
 
 # <概要>
 
-M5StickC/Plus/Plus2用「TF(SD) HAT」のサンプルプログラムです。（[「TF(SD) HAT」はBOOTHにて販売中](https://kitto-yakudatsu.booth.pm/items/2385035)）<br>
+M5StickC/Plus/Plus2用「TF(SD) HAT」のサンプルプログラムです。（「TF(SD) HAT」は[BOOTH](https://kitto-yakudatsu.booth.pm/items/2385035)と[スイッチサイエンス](https://www.switch-science.com/catalog/9551)で販売中）<br>
 
 M5StickC/Plus/Plus2用「TF(SD) HAT」は、下記の様な形でM5StickC/Plus/Plus2に装着して使用します。
 （HATオプションならではの収まりの良い最小形状を目指してデザインしました！）
